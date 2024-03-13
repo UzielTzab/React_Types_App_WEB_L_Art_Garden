@@ -1,0 +1,188 @@
+
+
+.custom-navbar 
+{
+    background-color: #ff8c00;
+}
+
+.navbar-brand 
+{
+    font-weight: 900;
+    line-height: normal;
+}
+
+.nav-menu-list 
+{
+    width: 472px;
+}
+
+.nav-circle 
+{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    background-color: #fff4ce;
+}
+
+.nav-line 
+{
+    height: 31px;
+    border-left: 4px solid #ffffff;
+}
+
+.dropdown-container
+{
+    position: relative;
+}
+
+.dropdown-menu[data-bs-popper]
+{
+    position: absolute;
+    left: -290% !important;
+}
+
+.btn-close 
+{
+    box-shadow: none !important;
+}
+
+#navbarNav2 
+{
+    width: 260px;
+    background-color: purple;
+}
+
+.navbar-toggler 
+{
+    border: none !important;
+}
+
+.navbar-toggler:focus 
+{
+    box-shadow: none !important;
+}
+
+.fa-circle-user 
+{
+    margin-left: 3px;
+    margin-right: 17px;
+}
+
+.nav-search 
+{
+    position: relative;
+    margin-top: 8px;
+}
+
+.icon-search 
+{
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.navbar-nav-mobile 
+{
+    border-top: solid 1px #eff1f3;
+}
+
+.fa-house 
+{
+    margin-left: 1px;
+    margin-right: 18px;
+}
+
+.fa-shop 
+{
+    margin-right: 15px;
+}
+
+.fa-phone 
+{
+    margin-left: 3px;
+    margin-right: 18px;
+}
+
+.header-bottom-container 
+{
+    height: 100px;
+    background-color: #ff9900;
+}
+
+.progress-container-a
+{
+    width: 34%;
+}
+
+.progress-container-b
+{
+    width: 34%;
+}
+
+.progress-container-c
+{
+    width: 34%;
+}
+
+.circle-a
+{
+    height: 16px;
+    width: 16px;
+    margin: 0 auto;
+    border-radius: 50%;
+    background-color: #ffb800;
+}
+
+.connector-a
+{
+    position: relative;
+    width: 50%;
+    bottom: 9px;
+    right: -50%;
+    border-bottom: 3px solid  #ffb800;
+}
+
+.connector-b
+{
+    bottom: 9px;
+    position: relative;
+    border-bottom: 3px solid  #ffb800;
+}
+
+.circle-c
+{
+    height: 16px;
+    width: 16px;
+    margin: 0 auto;
+    border-radius: 50%;
+    background-color: #fff1cc;
+}
+
+.connector-c
+{
+    position: relative;
+    width: 50%;
+    bottom: 9px;
+    border-bottom: 4px solid #fff1cc;
+}
+
+.line-1
+{
+    width: 30%;
+    height: 4px;
+    background-color: #fac70fff;; 
+}
+
+.line-2
+{
+    width: 35%;
+    height: 4px;
+    background-color: #fac70fff;; 
+}
+
